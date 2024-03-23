@@ -1,13 +1,17 @@
 body {
+    background-image: url("59646c62f998399915b732acb51eea40.jpg");
+    background-repeat: repeat;
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
 header {
     width: 100%;
-    background-color: #f8f9fa;
+    background-color: #ffd13a;
     padding: 20px 0;
     text-align: center;
+    font-family: Oswald, sans-serif;
+    font-weight: bolder;
 }
 
 #search-container {
@@ -53,7 +57,7 @@ header {
 }
 
 .forecast-day {
-    background-color: #f8f9fa;
+    background-color: #4cb9e4;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
