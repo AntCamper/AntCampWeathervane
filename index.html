@@ -4,15 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AntCampWeatherVane</title>
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
 </head>
 <body>
-    <form id="search-form">
-        <input type="text" id="city-input" placeholder="search for a city">
-        <button type="submit">Search</button>
-    </form>
-    <div id="weather-container"></div>
-    <div id="search-history"></div>
-    <div id="forecast-container"></div>
+    <header>
+        <h1>Weather Watch</h1>
+    </header>
+    <div id="search-container">
+        <form id="search-form">
+            <input type="text" id="city-input" placeholder="search for a city">
+            <button type="submit">Search</button>
+        </form>
+        <div id="search-history"></div>
+    </div>
+    <div id="main-container">
+        <div id="search-results-container">
+        </div>
+        <div id="forecast-container">
+        </div>
+    </div>
     <script src="assets/script.js"></script>   
 </body>
 </html>

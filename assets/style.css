@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
+
+#search-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto; 
+    padding: 20px; 
+}
+
+#search-form {
+    display: flex;
+    justify-content: flex-start; 
+    margin-bottom: 20px; 
+}
+
+#city-input {
+    flex-grow: 1; 
+    margin-right: 10px; 
+}
+
+#search-form button {
+    margin-left: 10px;
+}
+
+#search-history {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    margin-left: -40px; 
+}
+
+#main-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto; 
+}
+
+#forecast-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.forecast-day {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
