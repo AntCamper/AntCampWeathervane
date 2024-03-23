@@ -1,6 +1,6 @@
 # AntCampWeathervane
 
-![AntCampWeathervane Screenshot](C:\Users\antho\bootcamp\AntCampWeathervane\AntCampWeatherWatch.png)
+![AntCampWeathervane Screenshot](assets\AntCampWeatherWatch.png)
 
 ## Description
 
