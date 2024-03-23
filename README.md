@@ -1,6 +1,6 @@
 # AntCampWeathervane
 
-![AntCampWeathervane Screenshot](assets\AntCampWeatherWatch.png)
+![AntCampWeathervaneScreenshot](assets/AntCampWeatherWatch.png)
 
 ## Description
 
