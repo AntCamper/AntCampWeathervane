@@ -1,6 +1,7 @@
 # AntCampWeathervane
 
-![AntCampWeathervane Screenshot](https://imgur.com/a/8elABeQ)
+![AntCampWeathervane Screenshot](![AntCampWeatherWatch](https://github.com/AntCamper/AntCampWeathervane/assets/152764140/c8990226-21ca-4e6c-8408-e58a640e3dd8)
+)
 
 ## Description
 
