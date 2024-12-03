@@ -13,7 +13,7 @@ AntCampWeathervane is a web application designed to provide weather updates. It 
 ## Usage
 
 Visit ![AntcampWeathervane](https://antcamper.github.io/AntCampWeathervane/) to access the application. Simply enter your location in the search bar to get started.
-
+https://antcamper.github.io/AntCampWeathervane/
 ## Acknowledgments
 
 - Weather data provided by [WeatherAPI](https://openweathermap.org/forecast5)
